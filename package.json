@@ -1,0 +1,25 @@
+{
+  "name": "formak",
+  "version": "0.1.0",
+  "description": "A simple form wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/first-class-higher-order/formak.git"
+  },
+  "keywords": [
+    "js",
+    "form",
+    "formak",
+    "ts"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/first-class-higher-order/formak/issues"
+  },
+  "homepage": "https://github.com/first-class-higher-order/formak#readme"
+}
