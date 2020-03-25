@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/first-class-higher-order/formak/issues"
   },
-  "homepage": "https://github.com/first-class-higher-order/formak#readme"
+  "homepage": "https://github.com/first-class-higher-order/formak#readme",
+  "dependencies": {
+    "prop-types": "~15.7.2"
+  },
+  "devDependencies": {
+    "react": "~16.8.6"
+  }
 }

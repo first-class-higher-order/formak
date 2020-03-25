@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import PropTypes from 'prop-types'
 
 
 // remap module
@@ -186,13 +187,13 @@ export const wrapForm = function( WrappedComponent ) {
     isSentOnlyTouched: false,
   }
 
-  // FormWrapper.propTypes = {
-  //   submitForm: PropTypes.func,
-  //   errors: PropTypes.object,
-  //   id: PropTypes.number,
-  //   formValues: PropTypes.object,
-  //   schema: PropTypes.object,
-  // }
+  FormWrapper.propTypes = {
+    submitForm: PropTypes.func,
+    errors: PropTypes.object,
+    id: PropTypes.number,
+    formValues: PropTypes.object,
+    schema: PropTypes.object,
+  }
 
   return FormWrapper
 }
