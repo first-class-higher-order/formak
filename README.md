@@ -1,8 +1,6 @@
 # Formak #
 
-[![Npm Version][npm-version-image]][npm-version-url]
-[![License][license-image]][license-url]
-[![Downloads][downloads-image]][downloads-url]
+![npm](https://img.shields.io/npm/v/@first-class/formak?color=green&style=flat-square)
 
 ### This is a simple small form wrapper to simplify your working process with forms in React ###
 
